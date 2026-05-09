@@ -81,7 +81,7 @@ contact  : zahrafiaz28@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codedbyzahra.vercel.app-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://codedbyzahra.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-zahrafiaz28@gmail.com-EC4899?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:zahrafiaz28@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-zahra_.dev-C084FC?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/zahra_.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-codedbyzahra-C084FC?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/zahra_.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/923207297359)
 
 </div>
@@ -91,5 +91,5 @@ contact  : zahrafiaz28@gmail.com
 ---
 
 <div align="center">
-<sub>⚡ Built with intention · <a href="https://codedbyzahra.vercel.app/">codedbyzahra.vercel.app</a></sub>
+<sub> Built with intention · <a href="https://codedbyzahra.vercel.app/">codedbyzahra.vercel.app</a></sub>
 </div>
