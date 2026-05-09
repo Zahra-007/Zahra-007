@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=Zahra%20Fiaz&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20SaaS%20Architect&descSize=15&descAlignY=60&descColor=c0a8f0" width="100%"/>
-
+<!-- HEADER: clean dark typing animation only, no blob/capsule render -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Crafting+premium+web+experiences;Building+AI-powered+SaaS+tools;Clean+code+%2B+stunning+interfaces;Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+# Zahra Fiaz
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=500&lines=Web+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+SaaS+Architect;Crafting+premium+web+experiences;Building+AI-powered+tools;Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+
+<br/>
 
 </div>
 
-<br/>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -64,12 +67,10 @@ contact  : zahrafiaz28@gmail.com
 ### `> stats`
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zahra-007&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-007&layout=compact&theme=midnight-purple&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-007&theme=midnight-purple&hide_border=true" width="55%"/>
+<!-- Single reliable streak card only — stat cards were broken -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-007&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" width="55%"/>
+
 </div>
 
 ---
@@ -87,6 +88,8 @@ contact  : zahrafiaz28@gmail.com
 
 <br/>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<sub>⚡ Built with intention · <a href="https://codedbyzahra.vercel.app/">codedbyzahra.vercel.app</a></sub>
 </div>
