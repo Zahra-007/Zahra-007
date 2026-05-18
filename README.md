@@ -53,12 +53,12 @@ contact  : zahrafiaz28@gmail.com
 
 | &nbsp; | Project | Stack | Live |
 |:--:|--------|-------|:----:|
-| 🤖 | **Clabot AI** — AI chatbot SaaS with analytics & custom models | `Next.js` `OpenAI` `Tailwind` | [↗](https://clabotai.vercel.app/) |
-| 🛠️ | **Zehbee** — Multipurpose utility hub, fully client-side | `React` `TypeScript` `Web Workers` | [↗](https://www.zehbee.com/) |
-| 🍽️ | **Layali** — Premium restaurant platform with reservations | `Next.js` `Framer Motion` | [↗](https://layali-restaurant.vercel.app/) |
-| 💇 | **Maison Belle** — Luxury salon with GSAP animations | `React` `GSAP` `CSS Modules` | [↗](https://maison-belle.vercel.app/) |
-| 🚢 | **AFAQ Al Bahar** — Corporate global shipping platform | `Next.js` `Tailwind` | [↗](https://afaq-al-bahr-shipping.vercel.app/) |
-| 🏥 | **Ortopectus** — Modern healthcare web platform | `Next.js` `React` | [↗](https://ortopectus-website.vercel.app/) |
+ **Clabot AI** — AI chatbot SaaS with analytics & custom models | `Next.js` `OpenAI` `Tailwind` | [↗](https://clabotai.vercel.app/) |
+ **Zehbee** — Multipurpose utility hub, fully client-side | `React` `TypeScript` `Web Workers` | [↗](https://www.zehbee.com/) |
+ **Layali** — Premium restaurant platform with reservations | `Next.js` `Framer Motion` | [↗](https://layali-restaurant.vercel.app/) |
+ **Maison Belle** — Luxury salon with GSAP animations | `React` `GSAP` `CSS Modules` | [↗](https://maison-belle.vercel.app/) |
+ **AFAQ Al Bahar** — Corporate global shipping platform | `Next.js` `Tailwind` | [↗](https://afaq-al-bahr-shipping.vercel.app/) |
+ **Ortopectus** — Modern healthcare web platform | `Next.js` `React` | [↗](https://ortopectus-website.vercel.app/) |
 
 </div>
 
